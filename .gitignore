@@ -1,0 +1,3 @@
+# .gitignore
+E:\\eeg-prac\\Dataset\\EDF_Files\\*.edf
+E:\\eeg-prac\\Dataset\\MATLAB_FILES\\*.mat
